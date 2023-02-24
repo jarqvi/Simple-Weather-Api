@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en" dir="rtl">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <!-- Style CSS -->
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Weather.Js</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 mx-auto mt-5">
+                <div class="card bg-light text-center">
+                    <div class="card-body d-flex flex-row-reverse justify-content-center align-items-center float-left">
+                        <img id="w-icon" alt="">
+                        <h5 class="scroll-none mt-3">
+                            <span id="w-temp" class="h5"> </span>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Js files -->
+    <script src="./node_modules/axios/dist/axios.min.js"></script>
+    <script src="./js/config.js"></script>
+    <script src="./js/ui.js"></script>
+    <script src="./js/weather.js"></script>
+    <script src="./js/app.js"></script>
+</body>
+
+</html>
