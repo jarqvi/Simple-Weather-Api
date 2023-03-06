@@ -5,5 +5,4 @@ class UI {
         this.temp = document.getElementById('w-temp');
     }
 }
-const config = new Config();
 const ui = new UI();
