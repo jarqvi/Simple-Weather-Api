@@ -11,3 +11,4 @@ class Weather {
             });
     }
 }
+const weather = new Weather();
