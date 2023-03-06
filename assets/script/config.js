@@ -6,3 +6,4 @@ class Config {
         this.state = 'Your state';
     }
 }
+const config = new Config();
