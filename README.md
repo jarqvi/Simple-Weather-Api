@@ -1,7 +1,7 @@
 # Simple-Weather-API
 ---
 __Specifications:__
-- __[Javascript](https://www.javascript.com/)__ - Program programming language.
+- __[JavaScript](https://www.javascript.com/)__ - Program programming language.
 - __[Axios](https://axios-http.com/)__ - Library used for API.
 - __[Bootstrap](https://getbootstrap.com/)__ - The framework used for the front end of the application.
 ---
